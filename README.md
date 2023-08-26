@@ -59,13 +59,7 @@ i will hopefully update my demo and github repository with a month with the upda
 
 
 ## Home page (desktop-view)
-![12](https://user-images.githubusercontent.com/68242845/125506940-85a38d21-66ee-4a73-b4ff-44d15ef6ed98.PNG)
-
-
-
-##  Home page (mobile-view)
-![13](https://user-images.githubusercontent.com/68242845/125506648-3ab82c4f-50b5-47d8-b6e2-316aa63d83c1.PNG)
-![14](https://user-images.githubusercontent.com/68242845/125506653-42474504-2225-4018-9e44-d5d2a1d1aa9b.PNG)
+<img width="948" alt="image" src="https://github.com/bhoomikadhaka/Teams-Clone/assets/94540407/7b794131-5189-497e-bfba-a73d9f448975">
 
 
 ## Chat-box (desktop-view)
